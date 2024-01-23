@@ -1,0 +1,12 @@
+@charset "UTF-8";
+
+head {
+
+    text-decoration: aqua;
+    text-align: center;
+}
+
+h1 {
+    text-decoration: blue;
+    color: black;
+}
